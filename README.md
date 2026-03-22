@@ -1,8 +1,8 @@
 # OS-scratch
 
-Notes and code for learning how an OS gets written from scratch in assembly and C
-Based on legacy systems - BIOS, MBR, 32-bit processors
-Guided by Nick Blundell's "Writing a Simple Operating System —  from Scratch"
+1. Notes and code for learning how an OS gets written from scratch in assembly and C
+1. Based on legacy systems - BIOS, MBR, 32-bit processors
+1. Guided by Nick Blundell's "Writing a Simple Operating System —  from Scratch"
 
 # C file compilation commands reference
 
